@@ -12,5 +12,5 @@ def escribir_letra_por_letra(texto, retardo=0.1):
     print()  # Salto de línea al final
 
 while i<69:
-    escribir_letra_por_letra("Nigger", 0.18)
+    escribir_letra_por_letra("Nigga", 0.18)
     i=+1   
